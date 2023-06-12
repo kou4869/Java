@@ -1,7 +1,11 @@
 
 public class hello {
-  // TODO 自動生成されたメソッド・スタブ
-  // 画面に「Hello Java！」と表示
+
+  /*
+   * mainメソッド
+   * 画面に以下の３行の文章を表示する 
+   */
+
   public static void main(String[] args) {
     System.out.println("Hello Java!");
 		System.out.println("こんにちは");
