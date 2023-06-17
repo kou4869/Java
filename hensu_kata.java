@@ -32,5 +32,9 @@ public class hensu_kata {
     //char(ｷｬﾗ)型(一文字のみ代入が可能)変数の宣言を代入
     char c='A';
     System.out.println(c);
+
+    //String型変数宣言を代入
+    String str="ABC";
+    System.out.println(str);
   }
 }
